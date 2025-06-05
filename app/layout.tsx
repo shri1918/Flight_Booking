@@ -9,7 +9,6 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Flight Explorer - Your Gateway to Seamless Flight Booking",
   description: "Book flights with ease using our comprehensive flight booking platform",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
